@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab 4</string>
+    <string name="btn1">Add</string>
+    <string name="btn2">Remove</string>
+    <string name="btn3">Clear</string>
+    <string name="list">LIST OF NEARBY PLACES TO EAT</string>
+</resources>
